@@ -16,10 +16,9 @@ ul li{
 .image-fluid{
     max-width: 100%;
 }
-.bg-card{
-    background-color: #979797
-    ;
-}
+/* .bg-card{
+    background-color: #F1F1F1;
+} */
 .theme-color{
     color: #FA804C;
 }
