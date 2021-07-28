@@ -1,0 +1,25 @@
+.bg-header{
+    background-color: #FFF9F4;
+}
+.heading-size{
+    width: 360px;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-weight: 700;
+    width: 360px;
+}
+ul li{
+    font-size:px;
+}
+.image-fluid{
+    max-width: 100%;
+}
+.bg-card{
+    background-color: #979797
+    ;
+}
+.theme-color{
+    color: #FA804C;
+}
